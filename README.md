@@ -21,3 +21,4 @@ $ npm run generate
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/19bf091b-a159-4799-b719-7e9709c96430/deploy-status)](https://app.netlify.com/sites/boring-tereshkova-501d76/deploys)
